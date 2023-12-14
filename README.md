@@ -1,1 +1,4 @@
 # Excel-Dashboard-for-Profit-analysis-of-Keven-Cookie-company
+
+
+In this project you need to create an Excel Interactive Dashboard by using the excel document “Project_Excel Interactive Dashboard”. First of all look at the workbook, explore what the workbook is about, what kind of sheets does it have, what is number of rows and columns of each sheet, what are fields of the sheets, think about what kind of pilot tables and pilot charts you can create by thinking about what kind of analysis you can make, write down your ideas. The Dashboard will contain at least three slicers and 4 charts. First you need to merge the sheets, and then find the profit you will create  profit field. After that, you will create 4 pivot tables and corresponding charts. They are ‘Profit by Months”, “Unit Sold by Months”, “Unit Sold by Products”, and “Profit by Countries and Products”. You will decide which three slicers are suitable for your dashboard.
