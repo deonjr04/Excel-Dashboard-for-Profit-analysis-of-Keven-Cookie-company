@@ -10,8 +10,10 @@ This chart shows the profit by all of the countries that bought from Keven's Coo
 
 ![Screenshot (20)](https://github.com/deonjr04/Excel-Dashboard-for-Profit-analysis-of-Keven-Cookie-company/assets/146729697/be9ae3f3-2dde-4399-8028-c0b96dea6816)
 
+This line chart shows the profit by month.
 
 ![Screenshot (19)](https://github.com/deonjr04/Excel-Dashboard-for-Profit-analysis-of-Keven-Cookie-company/assets/146729697/6289fbbe-6431-4d06-a9ea-a3c52312e45b)
+
 
 
 ![Screenshot (18)](https://github.com/deonjr04/Excel-Dashboard-for-Profit-analysis-of-Keven-Cookie-company/assets/146729697/026d5f68-7f9e-4a76-a250-5027a995a9f4)
