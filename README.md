@@ -21,7 +21,7 @@ This line chart shows the units sold by month.
 This pie chart shows the units sold by product for Keven's Cookie Company.
 
 ![Screenshot (22)](https://github.com/deonjr04/Excel-Dashboard-for-Profit-analysis-of-Keven-Cookie-company/assets/146729697/6d575d36-a959-45da-9990-d123cb3144ce)
-This dashboard shows all the product, profit, cost, countries and unites sold over the time.
+This dashboard shows all the product, profit, cost, countries and unites sold over the time for Keven's Cookie Company.
 
 
 
