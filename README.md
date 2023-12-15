@@ -5,6 +5,13 @@ In this project you need to create an Excel Interactive Dashboard by using the e
 
 ## OVERVIEW
 
+
+
+![Screenshot (22)](https://github.com/deonjr04/Excel-Dashboard-for-Profit-analysis-of-Keven-Cookie-company/assets/146729697/6d575d36-a959-45da-9990-d123cb3144ce)
+This dashboard shows all the product, profit, cost, countries and unites sold over the time for Keven's Cookie Company.
+
+### EXAMPLES
+
 ![Screenshot (23)](https://github.com/deonjr04/Excel-Dashboard-for-Profit-analysis-of-Keven-Cookie-company/assets/146729697/ae50ad95-5134-48e4-b0c4-ced8ce21fc40)
 
 This chart shows the profit by all of the countries that bought from Keven's Cookie Company.
@@ -21,10 +28,6 @@ This line chart shows the units sold by month.
 ![Screenshot (18)](https://github.com/deonjr04/Excel-Dashboard-for-Profit-analysis-of-Keven-Cookie-company/assets/146729697/026d5f68-7f9e-4a76-a250-5027a995a9f4)
 
 This pie chart shows the units sold by product for Keven's Cookie Company.
-
-![Screenshot (22)](https://github.com/deonjr04/Excel-Dashboard-for-Profit-analysis-of-Keven-Cookie-company/assets/146729697/6d575d36-a959-45da-9990-d123cb3144ce)
-This dashboard shows all the product, profit, cost, countries and unites sold over the time for Keven's Cookie Company.
-
 
 
 
