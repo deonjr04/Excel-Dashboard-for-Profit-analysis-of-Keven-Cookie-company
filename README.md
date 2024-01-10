@@ -27,7 +27,8 @@ This line chart shows the units sold by month. In this line chart I see that OCT
 
 ![Screenshot (18)](https://github.com/deonjr04/Excel-Dashboard-for-Profit-analysis-of-Keven-Cookie-company/assets/146729697/026d5f68-7f9e-4a76-a250-5027a995a9f4)
 
-This pie chart shows the units sold by product for Keven's Cookie Company. In this pie chart is see that the chocolate chips cookie is the most sold unit by product.
+This pie chart shows the units sold by product for Keven's Cookie Company. In this pie chart is see that the chocolate chips cookie is the most sold unit by product. 
+
 
 
 
